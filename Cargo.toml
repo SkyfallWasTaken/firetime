@@ -1,0 +1,5 @@
+[workspace]
+members = ["crates/main", "crates/constants"]
+
+[profile.release]
+lto = "fat"

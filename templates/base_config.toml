@@ -1,0 +1,9 @@
+[connection]
+ip = "127.0.0.1"
+# We recommend keeping this at 25565.
+port = 25565
+
+[eula]
+# By changing the setting below to "true" (without the quotes), you are indicating
+# your agreement to the Mojang EULA at: https://www.minecraft.net/en-us/eula
+accepted = false
